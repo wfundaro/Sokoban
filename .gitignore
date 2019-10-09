@@ -1,0 +1,8 @@
+.vs/
+Debug/
+packages/
+x64/
+Sokoban.sln
+Sokoban/Debug/
+Sokoban/x64
+*.log
